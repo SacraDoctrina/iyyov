@@ -1,8 +1,10 @@
-# 以赛亚书
+# Structure Analysis
 
-## COMMENTARY
+## 以赛亚书
 
-### EXPOSIMENTARY(송병헌)
+### COMMENTARY
+
+#### EXPOSIMENTARY(송병헌)
 
 - Ⅰ. 유다와 예루살렘에 선포된 심판과 구원(1:1-12:6)
     1. 서론(1:1-31)

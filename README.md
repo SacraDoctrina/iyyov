@@ -10,7 +10,7 @@
 
 ## Hermeneia
 
-- [以赛亚书](./Hermeneia/以赛亚书.md)
+- [Structure Analysis](./Hermeneia/StructureAnalysis.md)
 
 ## Sacra Doctrina
 
