@@ -10,6 +10,7 @@
 
 ## Hermeneia
 
+- [Prolegomenon](./Hermeneia/Prolegomenon.md)
 - [Structure Analysis](./Hermeneia/StructureAnalysis.md)
 
 ## Sacra Doctrina
@@ -19,3 +20,7 @@
 ## Koinonia
 
 ## Latria
+
+## Cultura Animi
+
+- psychologia
