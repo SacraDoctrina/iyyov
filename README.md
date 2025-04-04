@@ -17,6 +17,8 @@
 
 ## Homilia
 
+- [讲道学](./Homilia/Homiletics.md)
+
 ## Koinonia
 
 ## Latria
