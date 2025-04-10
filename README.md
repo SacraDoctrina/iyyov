@@ -13,16 +13,15 @@
 ## Hermeneia
 
 - [Prolegomenon](./Hermeneia/Prolegomenon.md)
-- [Structure Analysis](./Hermeneia/StructureAnalysis.md)
 
 ## Sacra Doctrina
 
-- [Dogma]
+- Dogma
     - [使徒信经](./SacraDoctrina/Dogma/Credo.md)
-- [Biblical Theology]
-- [Historical Theology]
-- [Systematic Theology]
-- [Modern Theology]
+- Biblical Theology
+- Historical Theology
+- Systematic Theology
+- Modern Theology
 
 ## Homilia
 
