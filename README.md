@@ -24,7 +24,8 @@
 
 ## Sacra Doctrina
 
-- []
+- [Credo](./SacraDoctrina/Cerdo.md)
+- [De viris illustribus](./SacraDoctrina/DeVirisIllustribus.md)
 
 ## Homilia
 
