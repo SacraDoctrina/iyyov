@@ -34,3 +34,7 @@
 ## Koinonia
 
 ## Latria
+
+---
+
+"**huic scientiae attribuitur illud tantummodo quo fides saluberrima gignitur, nutritur, defenditur, roboratur.**" *ST.I.Q1.A2.SC*
