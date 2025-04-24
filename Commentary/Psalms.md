@@ -1,7 +1,6 @@
 # Psalms
 
-Psalms 8: Divine Majesty and Human Dignity
----
+## Psalms 8: Divine Majesty and Human Dignit
 
 0. To the leader: according to The Gittith. A Psalm of David.
 1. O LORD, our Sovereign, how majestic is your name in all the earth! You have set your glory above the heavens.
