@@ -6,25 +6,21 @@
 
 - [Prolegomenon](./Prolegomenon/Prolegomenon.md)
 
-## Lectio Divina
-
 ## Hermeneutics
 
 - [圣经批判学](./Hermeneutics/Biblical Criticism.md)
+- [讲道学](./Hermeneutics/Homiletics.md)
 
 ## Canon
 
-- [创世纪](./Canon/Genensis.md)
+- [创世纪](./Canon/Genesis.md)
 - [约伯记](./Canon/Job.md)
-
 
 ## Theologia
 
 - [使徒信经](./SacraDoctrina/Cerdo.md)
 
 ## Homilia
-
-- [讲道学](./Homilia/Homiletics.md)
 
 ---
 
