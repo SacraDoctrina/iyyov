@@ -4,36 +4,27 @@
 
 ## Prolegomena
 
+- [Prolegomenon](./Prolegomenon/Prolegomenon.md)
+
 ## Lectio Divina
 
 ## Hermeneutics
 
-- [圣经批判学](./Hermeneutics/圣经批判学.md)
+- [圣经批判学](./Hermeneutics/Biblical Criticism.md)
 
-## Hermeneia
+## Canon
 
-- [Prolegomenon](./Hermeneia/Prolegomenon.md)
-- [Structure Analysis](./Hermeneia/StructureAnalysis.md)
+- [创世纪](./Canon/Genensis.md)
+- [约伯记](./Canon/Job.md)
+
 
 ## Theologia
 
-- BIBLICAL THEOLOGY
-- HISTORICAL THEOLOGY
-- SYSTEMATIC THEOLOGY
-- MODERN THEOLOGY
-
-## Sacra Doctrina
-
-- [Credo](./SacraDoctrina/Cerdo.md)
-- [De viris illustribus](./SacraDoctrina/DeVirisIllustribus.md)
+- [使徒信经](./SacraDoctrina/Cerdo.md)
 
 ## Homilia
 
 - [讲道学](./Homilia/Homiletics.md)
-
-## Koinonia
-
-## Latria
 
 ---
 
